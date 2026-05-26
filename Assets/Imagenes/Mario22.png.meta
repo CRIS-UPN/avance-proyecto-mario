@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: e7b002784202f164592ff9a59d7efd11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7814678284048502110
+    second: Mario22_0
+  - first:
+      213: -5286355544295319750
+    second: Mario22_1
+  - first:
+      213: -1831976201887090174
+    second: Mario22_2
+  - first:
+      213: 3309461251349097412
+    second: Mario22_3
+  - first:
+      213: -3254485398330971709
+    second: Mario22_4
+  - first:
+      213: -5651860176058424562
+    second: Mario22_5
+  - first:
+      213: 397265113340572196
+    second: Mario22_6
+  - first:
+      213: -7363230569256484618
+    second: Mario22_7
+  - first:
+      213: -319086142810481605
+    second: Mario22_8
+  - first:
+      213: -8714993286817056662
+    second: Mario22_9
+  - first:
+      213: -2340095869857860991
+    second: Mario22_10
+  - first:
+      213: 7581723592473316463
+    second: Mario22_11
+  - first:
+      213: -73639805204741540
+    second: Mario22_12
+  - first:
+      213: -2276003279682498860
+    second: Mario22_13
+  - first:
+      213: 2832071485279246606
+    second: Mario22_14
+  - first:
+      213: 7221900524199472153
+    second: Mario22_15
+  - first:
+      213: 1237003677377053167
+    second: Mario22_16
+  - first:
+      213: 4596209734832593436
+    second: Mario22_17
+  - first:
+      213: 5369872970887738284
+    second: Mario22_18
+  - first:
+      213: -3439430657170941488
+    second: Mario22_19
+  - first:
+      213: -5181725077796103186
+    second: Mario22_20
+  - first:
+      213: -2356210753922065789
+    second: Mario22_21
+  - first:
+      213: 1692118469687726435
+    second: Mario22_22
+  - first:
+      213: 8126874907411059476
+    second: Mario22_23
+  - first:
+      213: 7644245597169227430
+    second: Mario22_24
+  - first:
+      213: -2232587739004927096
+    second: Mario22_25
+  - first:
+      213: -5575769843043466859
+    second: Mario22_26
+  - first:
+      213: 2543805135072821878
+    second: Mario22_27
+  - first:
+      213: 2023431500365623388
+    second: Mario22_28
+  - first:
+      213: 6384528039470133626
+    second: Mario22_29
+  - first:
+      213: 7250824725240141620
+    second: Mario22_30
+  - first:
+      213: 6214125082509663320
+    second: Mario22_31
+  - first:
+      213: -7727119816299706747
+    second: Mario22_32
+  - first:
+      213: 6806426389874631387
+    second: Mario22_33
+  - first:
+      213: 6718025595131770332
+    second: Mario22_34
+  - first:
+      213: 5015311652979030139
+    second: Mario22_35
+  - first:
+      213: -8627491053713594247
+    second: Mario22_36
+  - first:
+      213: -7674956178878550653
+    second: Mario22_37
+  - first:
+      213: 5945506104538199341
+    second: Mario22_38
+  - first:
+      213: -7867155183262119883
+    second: Mario22_39
+  - first:
+      213: -3567546581229417012
+    second: Mario22_40
+  - first:
+      213: -6028614313324328407
+    second: Mario22_41
+  - first:
+      213: -645316665024983128
+    second: Mario22_42
+  - first:
+      213: -5117770572050282045
+    second: Mario22_43
+  - first:
+      213: -8405817973219466903
+    second: Mario22_44
+  - first:
+      213: 6901520220916404845
+    second: Mario22_45
+  - first:
+      213: 201823692868252438
+    second: Mario22_46
+  - first:
+      213: -8863899033018395206
+    second: Mario22_47
+  - first:
+      213: -2009013657923330788
+    second: Mario22_48
+  - first:
+      213: 7590447399072484648
+    second: Mario22_49
+  - first:
+      213: 4647069383248019962
+    second: Mario22_50
+  - first:
+      213: 4032037398339497635
+    second: Mario22_51
+  - first:
+      213: 7107563887219107570
+    second: Mario22_52
+  - first:
+      213: 2743448558497317274
+    second: Mario22_53
+  - first:
+      213: -5397811633079152634
+    second: Mario22_54
+  - first:
+      213: 5331815197226487711
+    second: Mario22_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2745d218fac8390800000000000000
+      internalID: -7814678284048502110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 119
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a375cd904a713a6b0800000000000000
+      internalID: -5286355544295319750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 119
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20afc81c9538396e0800000000000000
+      internalID: -1831976201887090174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb259c49719ded20800000000000000
+      internalID: 3309461251349097412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 118
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c969c1f5ceb5d2d0800000000000000
+      internalID: -3254485398330971709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 117
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036cdd5d1f8091b0800000000000000
+      internalID: -5651860176058424562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 119
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422f15a048e538500800000000000000
+      internalID: 397265113340572196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 118
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08b203fcc80d990800000000000000
+      internalID: -7363230569256484618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 118
+        width: 73
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c180df7d0629bf0800000000000000
+      internalID: -319086142810481605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 118
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fa5797cf1e0780800000000000000
+      internalID: -8714993286817056662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 118
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18273c8643f468fd0800000000000000
+      internalID: -2340095869857860991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 118
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c029a0071b73960800000000000000
+      internalID: 7581723592473316463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_12
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 118
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524171ccf06afef0800000000000000
+      internalID: -73639805204741540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_13
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 118
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de86ee63130a60e0800000000000000
+      internalID: -2276003279682498860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 118
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09159ac20a8d4720800000000000000
+      internalID: 2832071485279246606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_15
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 118
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ced147348593460800000000000000
+      internalID: 7221900524199472153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_16
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 118
+        width: 73
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe149e76a48ba2110800000000000000
+      internalID: 1237003677377053167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_17
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 118
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a93ede66409cf30800000000000000
+      internalID: 4596209734832593436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_18
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 118
+        width: 71
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca33cb6240f958a40800000000000000
+      internalID: 5369872970887738284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_19
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 118
+        width: 73
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9dcb94a00b440d0800000000000000
+      internalID: -3439430657170941488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_20
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 119
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebda36ee70d618b0800000000000000
+      internalID: -5181725077796103186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_21
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 121
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a15849dce0d4fd0800000000000000
+      internalID: -2356210753922065789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_22
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 117
+        width: 140
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615d9f68cc9b7710800000000000000
+      internalID: 1692118469687726435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_23
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 118
+        width: 70
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41395469ba578c070800000000000000
+      internalID: 8126874907411059476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_24
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 119
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a69d13aed0d51a60800000000000000
+      internalID: 7644245597169227430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_25
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 118
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88308b6b7414401e0800000000000000
+      internalID: -2232587739004927096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_26
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 119
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5910f049ed2ee92b0800000000000000
+      internalID: -5575769843043466859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67284ddea496d4320800000000000000
+      internalID: 2543805135072821878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 12
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50f0ae9a3ca41c10800000000000000
+      internalID: 2023431500365623388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 11
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71732bdc666a9850800000000000000
+      internalID: 6384528039470133626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437de8ccbaa10a460800000000000000
+      internalID: 7250824725240141620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 11
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c55d4b6d10d3650800000000000000
+      internalID: 6214125082509663320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 11
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58603949771c3c490800000000000000
+      internalID: -7727119816299706747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd262565db8457e50800000000000000
+      internalID: 6806426389874631387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 10
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5bfc56fa83b3d50800000000000000
+      internalID: 6718025595131770332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 10
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7831b94067f99540800000000000000
+      internalID: 5015311652979030139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_36
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 10
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9786a88d89ef44880800000000000000
+      internalID: -8627491053713594247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 11
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d214bd4041d7590800000000000000
+      internalID: -7674956178878550653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 10
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d257aea2d4ea28250800000000000000
+      internalID: 5945506104538199341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_39
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 10
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c9c4fa0042d290800000000000000
+      internalID: -7867155183262119883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_40
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 10
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd492a39478d7ec0800000000000000
+      internalID: -3567546581229417012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_41
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 10
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac776193f065ca0800000000000000
+      internalID: -6028614313324328407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_42
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 10
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afcb8589ef5b07f0800000000000000
+      internalID: -645316665024983128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_43
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 10
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9cef2a7c60af8b0800000000000000
+      internalID: -5117770572050282045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_44
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 10
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e8abd619885b80800000000000000
+      internalID: -8405817973219466903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_45
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 11
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d5e9331027cf50800000000000000
+      internalID: 6901520220916404845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_46
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 11
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137ba054950dc200800000000000000
+      internalID: 201823692868252438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_47
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 10
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5920cdaca1df480800000000000000
+      internalID: -8863899033018395206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_48
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 10
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d529ae8bc8e14e0800000000000000
+      internalID: -2009013657923330788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_49
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 10
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dc00c81bfa65960800000000000000
+      internalID: 7590447399072484648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_50
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 9
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1871b9bf4bd7040800000000000000
+      internalID: 4647069383248019962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_51
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 11
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aead11b6aca4f730800000000000000
+      internalID: 4032037398339497635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_52
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 10
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e61ca2b323a260800000000000000
+      internalID: 7107563887219107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_53
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 11
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a914ac4bdefa21620800000000000000
+      internalID: 2743448558497317274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_54
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 11
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60098d52bee1715b0800000000000000
+      internalID: -5397811633079152634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario22_55
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 10
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fc6b63ca96ef940800000000000000
+      internalID: 5331815197226487711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mario22_0: -7814678284048502110
+      Mario22_1: -5286355544295319750
+      Mario22_10: -2340095869857860991
+      Mario22_11: 7581723592473316463
+      Mario22_12: -73639805204741540
+      Mario22_13: -2276003279682498860
+      Mario22_14: 2832071485279246606
+      Mario22_15: 7221900524199472153
+      Mario22_16: 1237003677377053167
+      Mario22_17: 4596209734832593436
+      Mario22_18: 5369872970887738284
+      Mario22_19: -3439430657170941488
+      Mario22_2: -1831976201887090174
+      Mario22_20: -5181725077796103186
+      Mario22_21: -2356210753922065789
+      Mario22_22: 1692118469687726435
+      Mario22_23: 8126874907411059476
+      Mario22_24: 7644245597169227430
+      Mario22_25: -2232587739004927096
+      Mario22_26: -5575769843043466859
+      Mario22_27: 2543805135072821878
+      Mario22_28: 2023431500365623388
+      Mario22_29: 6384528039470133626
+      Mario22_3: 3309461251349097412
+      Mario22_30: 7250824725240141620
+      Mario22_31: 6214125082509663320
+      Mario22_32: -7727119816299706747
+      Mario22_33: 6806426389874631387
+      Mario22_34: 6718025595131770332
+      Mario22_35: 5015311652979030139
+      Mario22_36: -8627491053713594247
+      Mario22_37: -7674956178878550653
+      Mario22_38: 5945506104538199341
+      Mario22_39: -7867155183262119883
+      Mario22_4: -3254485398330971709
+      Mario22_40: -3567546581229417012
+      Mario22_41: -6028614313324328407
+      Mario22_42: -645316665024983128
+      Mario22_43: -5117770572050282045
+      Mario22_44: -8405817973219466903
+      Mario22_45: 6901520220916404845
+      Mario22_46: 201823692868252438
+      Mario22_47: -8863899033018395206
+      Mario22_48: -2009013657923330788
+      Mario22_49: 7590447399072484648
+      Mario22_5: -5651860176058424562
+      Mario22_50: 4647069383248019962
+      Mario22_51: 4032037398339497635
+      Mario22_52: 7107563887219107570
+      Mario22_53: 2743448558497317274
+      Mario22_54: -5397811633079152634
+      Mario22_55: 5331815197226487711
+      Mario22_6: 397265113340572196
+      Mario22_7: -7363230569256484618
+      Mario22_8: -319086142810481605
+      Mario22_9: -8714993286817056662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
